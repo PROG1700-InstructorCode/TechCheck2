@@ -1,5 +1,4 @@
 # TechCheck2 (Variables, Operators, Input and Output)
-)
 ## PROG1700- Logic and Programming 
 Tax Withheld Calculator
 Please refer to the instructions on BrightSpace for details
